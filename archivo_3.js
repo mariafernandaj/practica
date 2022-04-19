@@ -1,1 +1,4 @@
-// esta es la primera linea de texto del punto 7
+
+let tercero = "tres"
+"estamos en el punto 7"
+" a punto de tener un conflicto"
